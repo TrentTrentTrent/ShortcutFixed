@@ -6,7 +6,7 @@
 -- Watch the video https://www.youtube.com/watch?v=BAL1Q0xcUK4
 
 local AllowMessages = true -- This cant be toggled when injected!
-local ShortcutProtectedMSG = true -- EPIC custom GUI! (SERVER SIDED)
+local ShortcutProtectedMSG = false -- EPIC custom GUI! (SERVER SIDED)
 local Rank = "User" -- Your shortcut custom rank
 local allowads = false -- Let us put our discord in some commands (Clearlogs, Anticrash msg, etc)
 local AllowTeleportsToShortcutHub = false -- Disabling this will stop all shortcut game teleports
