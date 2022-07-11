@@ -7,8 +7,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/TrentTrentTrent/Short
 ```
 <details>
 <summary>Extras</summary>
+
 also heres the adminjoy loadstring cause why not
+
 ```lua
 loadstring(game:HttpGet("https://pastebin.com/raw/suhpHtK3"))()
 ```
+
 </details>
